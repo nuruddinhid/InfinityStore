@@ -1,0 +1,15 @@
+.styleLanding {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+  }
+  .styleLanding span {
+	width: 300px;
+	height: 3px;
+	background-color: rgba(0, 0, 0, 0.199);
+	border-radius: 5px;
+  }
+  
+  .judulLanding {
+	padding: 30px 30px;
+  }
